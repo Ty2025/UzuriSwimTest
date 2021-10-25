@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UzuriSwimTest", "UzuriSwimTest.csproj", "{DF0E3222-62DE-459F-96DB-8D19CAD25FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0E3222-62DE-459F-96DB-8D19CAD25FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0E3222-62DE-459F-96DB-8D19CAD25FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0E3222-62DE-459F-96DB-8D19CAD25FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0E3222-62DE-459F-96DB-8D19CAD25FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C4A8C6B-3337-44BF-BD1D-2FE19FDC4360}
+	EndGlobalSection
+EndGlobal
